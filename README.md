@@ -1,1 +1,3 @@
-# price-comparison-hub-327826
+# Project Repository
+
+This is the initial README file for the project.
